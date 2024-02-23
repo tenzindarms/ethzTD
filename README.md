@@ -1,2 +1,2 @@
 # Eprog
-uebungen HS23
+Uebungen HS23
